@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1744793488 source:c:\users\user\программы\lab_oop_5\header.cpp
+	"Header.h"
+
+1744793488 c:\users\user\программы\lab_oop_5\header.h
+	<iostream>
+
+1744793488 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_5\header.cpp
+	"Header.h"
+
+1744793488 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_5\header.h
+	<iostream>
+
+1744793561 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_5\main.cpp
+	"Header.h"
+	<clocale>
+

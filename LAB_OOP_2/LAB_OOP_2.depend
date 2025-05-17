@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1744566899 source:c:\users\user\ןנמדנאללû\lab_oop_2\main.cpp
+	"Point.h"
+	<iostream>
+	<clocale>
+
+1744566617 source:c:\users\user\ןנמדנאללû\lab_oop_2\point.cpp
+	"Point.h"
+	<iostream>
+
+1744566617 c:\users\user\ןנמדנאללû\lab_oop_2\point.h
+	<string>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\ןנמדנאללû\lab_oop_4\main.cpp
+	<iostream>
+
+1744792700 source:c:\users\user\ןנמדנאללû\lab_oop_4\header.cpp
+	"Header.h"
+
+1744792656 c:\users\user\ןנמדנאללû\lab_oop_4\header.h
+	<iostream>
+

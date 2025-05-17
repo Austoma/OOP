@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1744796736 source:c:\users\user\программы\lab_oop_7\main.cpp
+	"List.h"
+	"Pair.h"
+	<clocale>
+
+1744796736 c:\users\user\программы\lab_oop_7\list.h
+	<iostream>
+	<string>
+
+1744796736 c:\users\user\программы\lab_oop_7\pair.h
+	<iostream>
+	<iomanip>
+
+1744796736 source:c:\users\user\программы\lab_oop_7\pair.cpp
+	"Pair.h"
+
+1744797025 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_7\list.cpp
+	"List.h"
+
+1744796736 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_7\list.h
+	<iostream>
+	<string>
+
+1744796736 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_7\main.cpp
+	"List.h"
+	"Pair.h"
+	<clocale>
+
+1744796736 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_7\pair.h
+	<iostream>
+	<iomanip>
+
+1744796736 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_7\pair.cpp
+	"Pair.h"
+

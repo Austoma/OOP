@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744562477 source:c:\users\user\ןנמדנאללû\lab_oop_1\main.cpp
+	"Fraction.h"
+
+1744562268 source:c:\users\user\ןנמדנאללû\lab_oop_1\fraction.cpp
+	"Fraction.h"
+
+1744566556 c:\users\user\ןנמדנאללû\lab_oop_1\fraction.h
+	<iostream>
+	<cmath>
+

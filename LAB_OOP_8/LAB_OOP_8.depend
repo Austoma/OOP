@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1745770805 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\main.cpp
+	"Dialog.h"
+	<iostream>
+	"windows.h"
+
+1745770829 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\dialog.h
+	"Vector.h"
+
+1745770784 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\vector.h
+	"Student.h"
+
+1745770829 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\student.h
+	"Person.h"
+
+1745770829 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\person.h
+	"Object.h"
+
+1745770829 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\object.h
+	<string>
+	<iostream>
+	"Event.h"
+
+1745770829 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_8\event.h
+

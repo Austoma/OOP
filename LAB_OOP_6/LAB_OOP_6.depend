@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\user\ןנמדנאללû\lab_oop_6\main.cpp
+	<iostream>
+
+1744795073 source:c:\users\user\ןנמדנאללû\lab_oop_6\iterator.cpp
+	"List.h"
+
+1744794810 c:\users\user\ןנמדנאללû\lab_oop_6\list.h
+	<iostream>
+	<string>
+
+1744795073 source:c:\users\user\ןנמדנאללû\lab_oop_6\list.cpp
+	"List.h"
+
