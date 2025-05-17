@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1744878218 source:c:\users\user\ןנמדנאללû\lab_oop_9\pair.cpp
+	"Pair.h"
+
+1744878218 c:\users\user\ןנמדנאללû\lab_oop_9\pair.h
+	<iostream>
+
+1744877266 source:c:\users\user\ןנמדנאללû\lab_oop_9\error.cpp
+	"Error.h"
+
+1744877580 c:\users\user\ןנמדנאללû\lab_oop_9\error.h
+	<iostream>
+	<string>
+
+1744878218 source:c:\users\user\ןנמדנאללû\lab_oop_9\iterator.cpp
+	"Iterator.h"
+
+1744878218 c:\users\user\ןנמדנאללû\lab_oop_9\iterator.h
+	"Error.h"
+
+1744878429 source:c:\users\user\ןנמדנאללû\lab_oop_9\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"Pair.h"
+
+1744878218 c:\users\user\ןנמדנאללû\lab_oop_9\linkedlist.h
+	<iostream>
+	<algorithm>
+	"Iterator.h"
+	"Error.h"
+
+1744877967 source:c:\users\user\ןנמדנאללû\lab_oop_9\linkedlist.cpp
+	"LinkedList.h"
+

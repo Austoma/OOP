@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1684133348 source:c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_11\main.cpp
+	<list>
+	"pair.h"
+	"list.h"
+	<queue>
+
+1684133348 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_11\pair.h
+	<iostream>
+
+1745746417 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_11\list.h
+	<iostream>
+	<algorithm>
+	"error.h"
+
+1684133348 c:\users\user\onedrive\Рабочий стол\Информатика\программы\lab_oop_11\error.h
+	<string>
+	<iostream>
+
